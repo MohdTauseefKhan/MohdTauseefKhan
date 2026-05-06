@@ -27,9 +27,6 @@
         <li>🌍 <b>Ambition:</b> Relocating to the UAE tech scene post-2028.</li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTauseefKhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-    </td>
   </tr>
 </table>
 
