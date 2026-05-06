@@ -1,40 +1,204 @@
-# Hi there, I'm Mohd Tauseef Khan 👋 
+<div align="center">
 
-### 🚀 Aspiring Full-Stack Developer | Java Spring Boot & React
-I am a B.Tech student (Class of 2028) focused on building scalable backend systems and dynamic frontends. I enjoy turning complex logic into simple, efficient code.
+# 🚀 Mohd Tauseef Khan
 
----
+### Full-Stack Developer • Java Backend Enthusiast • React Learner
 
-### 🛠️ My Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Building+Scalable+Backend+Applications;React+Frontend+Developer;Always+Learning+New+Technologies" />
 
-**Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
-**Tools & Dev**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-### 📈 What I'm working on
-- 🔭 **Current Focus:** Master Data Routing in React and JWT Security in Spring Boot.
-- 🌱 **Learning:** Microservices architecture and Cloud deployment.
-- 🎯 **Goal:** Building industry-ready projects for my 2028 career start in the UAE.
+# 💫 About Me
+
+```java
+public class Developer {
+
+    String name = "Mohd Tauseef Khan";
+    String role = "Full Stack Developer";
+    
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "JWT Authentication"
+    };
+
+    String[] frontend = {
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    };
+
+    String[] currentlyLearning = {
+        "Microservices",
+        "Docker",
+        "Cloud Deployment"
+    };
+
+    String goal = "Build scalable real-world applications";
+}
+```
+
+* 🎓 B.Tech Student — Class of 2028
+* 💻 Focused on Backend Development with Java & Spring Boot
+* ⚡ Interested in scalable systems and clean architecture
+* 🌱 Currently learning React routing, JWT security & microservices
+* 🚀 Building projects to become industry-ready
 
 ---
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdTauseefKhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTauseefKhan&layout=compact&theme=radical)
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,docker,postman,vscode" />
+
+</div>
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/mohd-tauseef-khan-81a846285) | [Email](mailto:mohdtousifkhan78@example.com)
+# 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce REST API
+
+Spring Boot backend with:
+
+* JWT Authentication
+* Role-based authorization
+* MySQL integration
+* RESTful APIs
+
+</td>
+
+<td width="50%">
+
+### 📚 Student Management System
+
+Full-stack CRUD application using:
+
+* React frontend
+* Spring Boot backend
+* MySQL database
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Real-Time Chat Application
+
+Java socket programming project featuring:
+
+* Multi-user communication
+* Client-server architecture
+* Real-time messaging
+
+</td>
+
+<td width="50%">
+
+### 📈 Expense Tracker
+
+Responsive application with:
+
+* Dynamic UI
+* State management
+* Data visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# ⚡ GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+✔ Advanced React Routing
+✔ JWT & Spring Security
+✔ REST API Best Practices
+✔ Docker Fundamentals
+✔ Microservices Architecture
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohd-tauseef-khan-81a846285">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mohdtousifkhan78@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “Code. Learn. Build. Repeat.”
+
+</div>
