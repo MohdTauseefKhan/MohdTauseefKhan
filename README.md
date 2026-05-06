@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • Java Backend Enthusiast • React Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Building+Scalable+Backend+Applications;React+Frontend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Building+Scalable+Backend+Applications;React+Frontend+Developer;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies" />
 
 <br/>
 
@@ -21,7 +21,7 @@ public class Developer {
 
     String name = "Mohd Tauseef Khan";
     String role = "Full Stack Developer";
-    
+
     String[] backend = {
         "Java",
         "Spring Boot",
@@ -34,6 +34,10 @@ public class Developer {
         "JavaScript",
         "HTML",
         "CSS"
+    };
+
+    String[] database = {
+        "MySQL"
     };
 
     String[] currentlyLearning = {
@@ -51,6 +55,7 @@ public class Developer {
 * ⚡ Interested in scalable systems and clean architecture
 * 🌱 Currently learning React routing, JWT security & microservices
 * 🚀 Building projects to become industry-ready
+* 📍 Targeting software engineering opportunities in the UAE
 
 ---
 
@@ -70,52 +75,29 @@ public class Developer {
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce REST API
+### 🏥 Medical Store Management System
 
-Spring Boot backend with:
+Java-based management system featuring:
 
-* JWT Authentication
-* Role-based authorization
-* MySQL integration
-* RESTful APIs
-
-</td>
-
-<td width="50%">
-
-### 📚 Student Management System
-
-Full-stack CRUD application using:
-
-* React frontend
-* Spring Boot backend
-* MySQL database
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💬 Real-Time Chat Application
-
-Java socket programming project featuring:
-
-* Multi-user communication
-* Client-server architecture
-* Real-time messaging
+* Medicine inventory tracking
+* Billing management
+* Supplier & customer records
+* Stock management system
+* Clean modular architecture
 
 </td>
 
 <td width="50%">
 
-### 📈 Expense Tracker
+### 🏆 Sports Tournament Scheduling System
 
-Responsive application with:
+Scheduling application designed for:
 
-* Dynamic UI
-* State management
-* Data visualization
+* Match fixture generation
+* Team scheduling automation
+* Tournament organization
+* Efficient scheduling logic
+* Structured backend workflow
 
 </td>
 </tr>
@@ -173,6 +155,7 @@ Responsive application with:
 ✔ REST API Best Practices
 ✔ Docker Fundamentals
 ✔ Microservices Architecture
+✔ Building Industry-Level Projects
 ```
 
 ---
