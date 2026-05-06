@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MohdTauseefKhan&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -127,9 +127,9 @@ Responsive application with:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohdTauseefKhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTauseefKhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -139,7 +139,7 @@ Responsive application with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=MohdTauseefKhan&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -149,7 +149,7 @@ Responsive application with:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdTauseefKhan&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -159,7 +159,7 @@ Responsive application with:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=MohdTauseefKhan&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" />
 
 </div>
 
@@ -189,7 +189,7 @@ Responsive application with:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MohdTauseefKhan">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
